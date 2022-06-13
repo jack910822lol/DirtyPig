@@ -1,0 +1,11 @@
+C:\Users\玠\source\repos\DirtyPig\DirtyPig\bin\Debug\DirtyPig.exe.config
+C:\Users\玠\source\repos\DirtyPig\DirtyPig\bin\Debug\DirtyPig.exe
+C:\Users\玠\source\repos\DirtyPig\DirtyPig\bin\Debug\DirtyPig.pdb
+C:\Users\玠\source\repos\DirtyPig\DirtyPig\obj\Debug\DirtyPig.csprojAssemblyReference.cache
+C:\Users\玠\source\repos\DirtyPig\DirtyPig\obj\Debug\DirtyPig.Form1.resources
+C:\Users\玠\source\repos\DirtyPig\DirtyPig\obj\Debug\DirtyPig.Form2.resources
+C:\Users\玠\source\repos\DirtyPig\DirtyPig\obj\Debug\DirtyPig.Properties.Resources.resources
+C:\Users\玠\source\repos\DirtyPig\DirtyPig\obj\Debug\DirtyPig.csproj.GenerateResource.cache
+C:\Users\玠\source\repos\DirtyPig\DirtyPig\obj\Debug\DirtyPig.csproj.CoreCompileInputs.cache
+C:\Users\玠\source\repos\DirtyPig\DirtyPig\obj\Debug\DirtyPig.exe
+C:\Users\玠\source\repos\DirtyPig\DirtyPig\obj\Debug\DirtyPig.pdb
